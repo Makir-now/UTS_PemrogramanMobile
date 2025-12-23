@@ -2,7 +2,7 @@
 
 152023184 Ujang ismail
 
-## Getting Started
+## Foto Aplikasi
 
 This project is a starting point for a Flutter application.
 
