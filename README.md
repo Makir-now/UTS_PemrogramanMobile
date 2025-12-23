@@ -23,7 +23,7 @@
 ![Halaman Biodata](foto/cuaca.jpeg)
 
 ### Halaman Prediksi Cuaca
-![Halaman Biodata](foto/prediksicuaca.jpeg)
+![Halaman Biodata](foto/prediksi cuaca.jpeg)
 
 ### Halaman Berita
 ![Halaman Biodata](foto/berita.jpeg)
